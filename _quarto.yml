@@ -27,7 +27,12 @@ website:
       - href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "TBD"
+          - text: "Facilitative Leadership"
+            href: content/facilitative-leadership.qmd
+          - text: "Community Engagement"
+            href: content/community-engagement.qmd
+          - text: "Designing for Success"
+            href: content/success-design.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary
