@@ -35,7 +35,9 @@ After completing this series, participants will be able to:
 
 | **Date** | **Series** | **Primary Instructor** |
 |:-----:|:-----------------|:---------|
-| x | x | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| Jan. 7, 2027 | 1. Facilitative Leadership Principles and Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| Feb. 4, 2027 | 2. Community Engagement Principles and Practices | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| Mar. 4, 2027 | 3. Designing a Collaborative or Network for Success | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 
 :::
 
