@@ -1,58 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Series Overview",
+    "objectID": "recordings.html",
+    "href": "recordings.html",
+    "title": "Series Recordings",
     "section": "",
-    "text": "Under construction; check back later",
+    "text": "Past offerings of this series have been recorded and are embedded below. Use the headings below to find the part of the series for which you want to view the recording then choose the relevant tab for which iteration of the recording (if more than one is available) is of interest.",
     "crumbs": [
       "LegacyWorks Home",
-      "Series Overview"
+      "Series Recordings"
     ]
   },
   {
-    "objectID": "index.html#course-structure",
-    "href": "index.html#course-structure",
-    "title": "Series Overview",
-    "section": "Course Structure",
-    "text": "Course Structure\n\n2026-27 Structure\n\n\n Under construction; check back later",
+    "objectID": "recordings.html#facilitative-leadership-principles-practices",
+    "href": "recordings.html#facilitative-leadership-principles-practices",
+    "title": "Series Recordings",
+    "section": "Facilitative Leadership Principles & Practices",
+    "text": "Facilitative Leadership Principles & Practices\n\n2026-27 CoP\n\n\nNo recording (yet)!",
     "crumbs": [
       "LegacyWorks Home",
-      "Series Overview"
+      "Series Recordings"
     ]
   },
   {
-    "objectID": "index.html#course-scheduling",
-    "href": "index.html#course-scheduling",
-    "title": "Series Overview",
-    "section": "Course Scheduling",
-    "text": "Course Scheduling\n\n2026-27 Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nPrimary Instructor\n\n\n\n\nJan. 7, 2027\n1. Facilitative Leadership Principles and Practices\n Carrie Kappel \n\n\nFeb. 4, 2027\n2. Community Engagement Principles and Practices\n TBA \n\n\nMar. 4, 2027\n3. Designing a Collaborative or Network for Success\n Carrie Kappel",
+    "objectID": "recordings.html#community-engagement-principles-practices",
+    "href": "recordings.html#community-engagement-principles-practices",
+    "title": "Series Recordings",
+    "section": "Community Engagement Principles & Practices",
+    "text": "Community Engagement Principles & Practices\n\n2026-27 CoP\n\n\nNo recording (yet)!",
     "crumbs": [
       "LegacyWorks Home",
-      "Series Overview"
+      "Series Recordings"
     ]
   },
   {
-    "objectID": "index.html#course-policies",
-    "href": "index.html#course-policies",
-    "title": "Series Overview",
-    "section": "Course Policies",
-    "text": "Course Policies\n Under construction; check back later",
+    "objectID": "recordings.html#designing-a-collaborative-or-network-for-success",
+    "href": "recordings.html#designing-a-collaborative-or-network-for-success",
+    "title": "Series Recordings",
+    "section": "Designing a Collaborative or Network for Success",
+    "text": "Designing a Collaborative or Network for Success\n\n2026-27 CoP\n\n\nNo recording (yet)!",
     "crumbs": [
       "LegacyWorks Home",
-      "Series Overview"
+      "Series Recordings"
     ]
   },
   {
-    "objectID": "content/facilitative-leadership.html",
-    "href": "content/facilitative-leadership.html",
-    "title": "Facilitative Leadership Principles & Practices",
+    "objectID": "content/success-design.html",
+    "href": "content/success-design.html",
+    "title": "Designing a Collaborative or Network for Success",
     "section": "",
     "text": "Under construction; check back later.\n\n\n\n\n\n\nTipCore Competencies Strengthened\n\n\n\n\n\nIcon legend: Values =  | Skills =  | Stewardship =  | Results =",
     "crumbs": [
       "LegacyWorks Home",
       "Series Contents",
-      "Facilitative Leadership"
+      "Designing for Success"
     ]
   },
   {
@@ -68,15 +68,59 @@
     ]
   },
   {
-    "objectID": "content/success-design.html",
-    "href": "content/success-design.html",
-    "title": "Designing a Collaborative or Network for Success",
+    "objectID": "content/facilitative-leadership.html",
+    "href": "content/facilitative-leadership.html",
+    "title": "Facilitative Leadership Principles & Practices",
     "section": "",
     "text": "Under construction; check back later.\n\n\n\n\n\n\nTipCore Competencies Strengthened\n\n\n\n\n\nIcon legend: Values =  | Skills =  | Stewardship =  | Results =",
     "crumbs": [
       "LegacyWorks Home",
       "Series Contents",
-      "Designing for Success"
+      "Facilitative Leadership"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Series Overview",
+    "section": "",
+    "text": "Under construction; check back later",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-structure",
+    "href": "index.html#series-structure",
+    "title": "Series Overview",
+    "section": "Series Structure",
+    "text": "Series Structure\n\n2026-27 Structure\n\n\n Under construction; check back later",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-scheduling",
+    "href": "index.html#series-scheduling",
+    "title": "Series Overview",
+    "section": "Series Scheduling",
+    "text": "Series Scheduling\n\n2026-27 Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nPrimary Instructor\n\n\n\n\nJan. 7, 2027\n1. Facilitative Leadership Principles and Practices\n Carrie Kappel \n\n\nFeb. 4, 2027\n2. Community Engagement Principles and Practices\n TBA \n\n\nMar. 4, 2027\n3. Designing a Collaborative or Network for Success\n Carrie Kappel",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-policies",
+    "href": "index.html#series-policies",
+    "title": "Series Overview",
+    "section": "Series Policies",
+    "text": "Series Policies\n Under construction; check back later",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
     ]
   }
 ]
