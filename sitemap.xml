@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LegacyWorksGroup.github.io/lead-collabs/recordings.html</loc>
-    <lastmod>2026-05-13T14:44:32.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/success-design.html</loc>
-    <lastmod>2026-05-13T14:44:32.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/community-engagement.html</loc>
-    <lastmod>2026-05-13T14:44:32.218Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/facilitative-leadership.html</loc>
-    <lastmod>2026-05-13T14:44:32.219Z</lastmod>
+    <loc>https://LegacyWorksGroup.github.io/lead-collabs/resources.html</loc>
+    <lastmod>2026-06-30T13:46:10.183Z</lastmod>
   </url>
   <url>
     <loc>https://LegacyWorksGroup.github.io/lead-collabs/index.html</loc>
-    <lastmod>2026-05-13T14:44:32.220Z</lastmod>
+    <lastmod>2026-06-30T13:46:10.183Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/facilitative-leadership.html</loc>
+    <lastmod>2026-06-30T13:46:10.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/community-engagement.html</loc>
+    <lastmod>2026-06-30T13:46:10.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/lead-collabs/content/success-design.html</loc>
+    <lastmod>2026-06-30T13:46:10.183Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/lead-collabs/recordings.html</loc>
+    <lastmod>2026-06-30T13:46:10.183Z</lastmod>
   </url>
 </urlset>
