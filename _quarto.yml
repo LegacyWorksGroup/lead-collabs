@@ -31,8 +31,6 @@ website:
         contents: 
           - text: "Facilitative Leadership"
             href: content/facilitative-leadership.qmd
-          - text: "Community Engagement"
-            href: content/community-engagement.qmd
           - text: "Designing for Success"
             href: content/success-design.qmd
       - text: "Series Recordings"
