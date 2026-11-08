@@ -48,5 +48,5 @@ format:
     link-external-icon: false
     theme:
       light: _extensions/legacyworksgroup/lwg_theme/lwg-light.scss
-      dark: _extensions/legacyworksgroup/lwg_themeç/lwg-dark.scss
+      dark: _extensions/legacyworksgroup/lwg_theme/lwg-dark.scss
     mainfont: Open Sans
